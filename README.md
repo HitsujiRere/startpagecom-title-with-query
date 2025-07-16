@@ -14,7 +14,7 @@ To use this script, you need a user script manager such as [Tampermonkey](https:
 
 Please install the script from the following URL:
 
-[Install from Greasy Fork](https://greasyfork.org/scripts/your-script-id) (<- Please replace with your actual Greasy Fork URL)
+[Install from Greasy Fork](https://greasyfork.org/ja/scripts/542730-startpage-com-title-with-query) (<- Please replace with your actual Greasy Fork URL)
 
 Or, you can install the `userscript.js` file directly from this repository.
 
@@ -40,7 +40,7 @@ Startpage.com の検索結果ページのタイトルに、検索クエリを追
 
 以下の URL からスクリプトをインストールしてください。
 
-[Greasy Fork からインストール](https://greasyfork.org/scripts/your-script-id) (<- 実際の Greasy Fork の URL に置き換えてください)
+[Greasy Fork からインストール](https://greasyfork.org/ja/scripts/542730-startpage-com-title-with-query) (<- 実際の Greasy Fork の URL に置き換えてください)
 
 または、このリポジトリにある`userscript.js`を直接インストールすることも可能です。
 
