@@ -7,6 +7,7 @@
 // @author          HitsujiRere
 // @match           https://www.startpage.com/*
 // @grant           none
+// @license         MIT
 // ==/UserScript==
 
 (function () {
